@@ -6,6 +6,7 @@ To approximate a solution using the Bisection or Secant methods, the user must h
 To use Newton’s Method, the user must also provide the derivative of the function to solve.    
 
 Reminder: 
+
 Bisection method converges as long as the user provides an interval [a,b] such that f(a)*f(b)<0
 (This interval must host at least one solution) also, the function f(x) must be continuous over interval [a,b].
 
