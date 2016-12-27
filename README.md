@@ -1,5 +1,6 @@
 # Numerical_Methods_for_nonlinear_func
-Numerical Methods for Nonlinear Function
+
+
 This is a test C++ program that demonstrates how some nonlinear solver work with respect to Iterative and recursive implementations. 
 Bisection, Newton’s and Secant methods are covered. The tolerance errors are defined as macros in the main source file.  
 To approximate a solution using the Bisection or Secant methods, the user must hard code the nonlinear equation in the main source file.  
